@@ -8,10 +8,7 @@ package monedas;
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Digitec Internet
- */
+
 public class FrameMonedas extends javax.swing.JFrame {
 
     /**
